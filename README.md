@@ -3,7 +3,7 @@
 ### Research Scientist interested in applied optics, data science, and machine learning
 
 - 🔭 I’m currently working on: __Various aspects of machine learning including recommendation systems, deep learning, and time series__
-- 💞️ I’m looking to collaborate on __computational modeling & application of machine learning in engineering and physics
+- 💞️ I’m looking to collaborate on __computational modeling & application of machine learning in engineering and physics__
 - ⚡ Fun fact: I am a huge fan of Liverpool FC and play alot of chess! 
 
 ### Contact me:
